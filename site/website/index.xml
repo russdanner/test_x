@@ -13,8 +13,8 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2022-05-23T17:42:30.959Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-05-23T17:42:30.959Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-06-13T18:34:51.795Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-06-13T18:34:51.795Z</lastModifiedDate_dt>
 	<title_t>Editorial</title_t>
 	<hero_text_html>&lt;p&gt;Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.&lt;/p&gt;</hero_text_html>
 	<hero_title_html>&lt;h1&gt;Hi, I&amp;rsquo;m Editorial ABC XYZ&lt;/h1&gt;
@@ -101,7 +101,7 @@
 </component>
 	</item></features_o>
 	<header/>
-	<hero_image_s>/static-assets/images/strawberries.jpg</hero_image_s>
+	<hero_image_s>/static-assets/item/images/2022/06/13/gallardo.svg</hero_image_s>
 	<left-rail_o item-list="true">	<item>	<key>/site/components/left-rails/left-rail-with-latest-articles.xml</key>
 	<value>Left Rail with Latest Articles</value>
 	<include>/site/components/left-rails/left-rail-with-latest-articles.xml</include>
